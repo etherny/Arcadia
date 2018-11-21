@@ -40,6 +40,8 @@
     OnMouseUpAsButton []
     OnParticleCollision [UnityEngine.GameObject]
     OnParticleTrigger []
+    OnPhotonConnectedToMaster []
+    OnPhotonJoinedLobby []
     OnPostRender []
     OnPreCull []
     OnPreRender []
